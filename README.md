@@ -10,7 +10,7 @@
 [<img src="./MainView.png">](https://mvp-fullstack-production.up.railway.app/)
 
 #### Javascript|html|Vanilla CSS
-[<img src="./Life_Line.png">](https://mvp-fullstack-production.up.railway.app/)
+[<img src="./Life_Line.png">](https://vanessacavaco.github.io/Life-Line/)
 
 <!--
 **VanessaCavaco/VanessaCavaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
