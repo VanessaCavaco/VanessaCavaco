@@ -2,15 +2,16 @@
 
 
 ## See my latest projects🏗️
-
-#### Vue
-[<img src="./re_Revit.PNG">](https://mvp-final-project-front-end-code-op.vercel.app/)
+#### Javascript|html|Vanilla CSS
+[<img src="./Image life line black.png">](https://vanessacavaco.github.io/Life-Line/)
 
 #### REACT|Vite|MySQL|Railway
 [<img src="./MainView.png">](https://mvp-fullstack-production.up.railway.app/)
 
-#### Javascript|html|Vanilla CSS
-[<img src="./Image life line black.png">](https://vanessacavaco.github.io/Life-Line/)
+#### Vue
+[<img src="./re_Revit.PNG">](https://mvp-final-project-front-end-code-op.vercel.app/)
+
+
 
 <!--
 **VanessaCavaco/VanessaCavaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
